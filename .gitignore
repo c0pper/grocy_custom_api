@@ -1,2 +1,4 @@
 grocy.db
 venv/
+__pycache__/
+.env
